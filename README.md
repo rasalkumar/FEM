@@ -1,3 +1,3 @@
 # newGitTest
 
-Created by Rasal Kumar
+Created by Rasal Kumar and Mohit Garg.
